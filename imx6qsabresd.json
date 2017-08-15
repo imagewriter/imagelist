@@ -1,0 +1,13 @@
+{
+    "i.MX Parser 4.0.9": {
+        "filename": "imx-parser-4.0.9.bin",
+        "md5sum": "184687baede96fe3919196c3f91d907c",
+        "url": "http://www.freescale.com/lgfiles/NMG/MAD/YOCTO/imx-parser-4.0.9.bin"
+    },
+    "i.MX GPU Vivante 5.0.11.p8.4-hfp": {
+        "filename": "imx-gpu-viv-5.0.11.p8.4-hfp.bin",
+        "md5sum": "d5400c6c54f6601eb34e442ee8fd1863",
+        "url": "http://www.freescale.com/lgfiles/NMG/MAD/YOCTO/imx-gpu-viv-5.0.11.p8.4-hfp.bin"
+    },
+}
+

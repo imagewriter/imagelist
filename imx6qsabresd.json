@@ -1,13 +1,12 @@
-{
-    "i.MX Parser 4.0.9": {
-        "filename": "imx-parser-4.0.9.bin",
-        "md5sum": "184687baede96fe3919196c3f91d907c",
-        "url": "http://www.freescale.com/lgfiles/NMG/MAD/YOCTO/imx-parser-4.0.9.bin"
-    },
-    "i.MX GPU Vivante 5.0.11.p8.4-hfp": {
-        "filename": "imx-gpu-viv-5.0.11.p8.4-hfp.bin",
-        "md5sum": "d5400c6c54f6601eb34e442ee8fd1863",
-        "url": "http://www.freescale.com/lgfiles/NMG/MAD/YOCTO/imx-gpu-viv-5.0.11.p8.4-hfp.bin"
-    },
-}
+{"images":[
+    {
+	"id": 0,	
+	"imagename": "Linux 4.1.15-2.1.0 GA Framebuffer",
+        "filename": "fsl-image-validation-imx-imx6qdlsolo-20170510091429.rootfs.sdcard.bin",
+	"bin-size": 261865540,
+        "bin-md5sum": "2d3a7628617352e923e66ccc75bb617e",
+        "sdcard-md5sum": "1de727098bbad5b1e7229f4575c3b334",
+        "url": "http://www.nxp.com/lgfiles/NMG/MAD/YOCTO/fsl-image-validation-imx-imx6qdlsolo-20170510091429.rootfs.sdcard.bin"
+    }
+]}
 

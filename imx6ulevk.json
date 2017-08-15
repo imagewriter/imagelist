@@ -1,0 +1,12 @@
+{"images":[
+    {
+	"id": 0,	
+	"imagename": "Linux 4.1.15-2.1.0 GA Framebuffer",
+        "filename": "fsl-image-validation-imx-imx6ul7d-20170510092736.rootfs.sdcard.bin",
+	"bin-size": 178147608,
+        "bin-md5sum": "cd1f4b1276c299a19c628e07a69ddff6",
+        "sdcard-md5sum": "b957c0f4326cef973d3797ae4bb1ec7a",
+        "url": "http://www.nxp.com/lgfiles/NMG/MAD/YOCTO/fsl-image-validation-imx-imx6ul7d-20170510092736.rootfs.sdcard.bin"
+    }
+]}
+

@@ -1,0 +1,22 @@
+{"boardinfo":[
+    {
+		"boardname": "i.MX6Q SabreSD REV A",
+		"boardid": "imx6sabresdpartnumber"
+    }
+],
+"images":[
+    {
+		"id": "0",
+		"imagename": "Linux 4.1.15-2.1.0 GA Framebuffer",
+		"group": "Linux",
+		"icon": "linux_ico.png",
+        "filename": "fsl-image-validation-imx-imx6qdlsolo-20170510091429.rootfs.sdcard.bin",
+		"bin-size": "261865540",
+        "bin-md5sum": "2d3a7628617352e923e66ccc75bb617e",
+        "sdcard-md5sum": "1de727098bbad5b1e7229f4575c3b334",
+        "url": "http://www.nxp.com/lgfiles/NMG/MAD/YOCTO/fsl-image-validation-imx-imx6qdlsolo-20170510091429.rootfs.sdcard.bin",
+		"documenturl": "www.nxp.com",
+		"supportedby": "NXP Semiconductors."
+    }	
+]
+}
